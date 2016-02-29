@@ -41,6 +41,6 @@ Thanks
 
 This application wouldn't be possible without the great material produced by the community. I would like to give special thanks to the authors of essencial parts I've got on the internet and used in the code:
 
-* [Android-er / GridVew code sample](http://android-er.blogspot.com.br/2012/07/gridview-loading-photos-from-sd-card.html)
+* [Android-er / GridView code sample](http://android-er.blogspot.com.br/2012/07/gridview-loading-photos-from-sd-card.html)
 * [Android Hive / Full Screen Image pager](http://www.androidhive.info/2013/09/android-fullscreen-image-slider-with-swipe-and-pinch-zoom-gestures/)
 * [Adrian Rosebrock from pyimagesearch.com for the excelent tutorial on how to handle the images](http://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
